@@ -1,6 +1,7 @@
 # Patriotic-Culture-Website
 
 Functions:
+
 1、Registration function: In the home page, you can enter the registration page through the "Register" link in the top menu navigation bar, enter the user name (2 to 8 digits), password (3 to 10 digits), confirmation password, mobile phone number (11 digits), and judge whether the input conforms to the specified format, if it does, click the "Register "button will be successfully registered, the user information is written to the database, and jump to the home page.
 
 2、Login function: In the home page, you can enter the login page through the "Login" link in the top menu navigation bar, enter your user name and password, compare with the user information in the database, if both are correct, click the "Login" button to successfully login and jump to the home page. to the home page.
