@@ -2,13 +2,21 @@
 
 Functions:
 1、Registration function: In the home page, you can enter the registration page through the "Register" link in the top menu navigation bar, enter the user name (2 to 8 digits), password (3 to 10 digits), confirmation password, mobile phone number (11 digits), and judge whether the input conforms to the specified format, if it does, click the "Register "button will be successfully registered, the user information is written to the database, and jump to the home page.
+
 2、Login function: In the home page, you can enter the login page through the "Login" link in the top menu navigation bar, enter your user name and password, compare with the user information in the database, if both are correct, click the "Login" button to successfully login and jump to the home page. to the home page.
+
 3、Personal information function: After successful login, click "Personal Information" on the menu bar of the home page to view and modify personal information.
+
 4、Logout function: After successful login, click "Logout" on the menu bar of the home page to logout.
+
 5、Answer record function: After successful login, click "Personal Answer Record" on the menu bar of the home page to view your answer record, click "Delete" on the right side to confirm and delete the answer record and update it to the database.
+
 6、Question bank management function: After logging in, the administrator can add, delete and modify questions in the question bank, view or delete each user's answer record, and update to the database.
+
 7、News comment function: After logging in, users can click on "Patriotic Culture" to enter the article list page and click on the article link to enter the article page, users can enter comments in the comment box and publish.
+
 8、Content management function: the administrator can add, modify and downgrade news or articles (will not be deleted after downgrading, can be displayed again).
+
 9、User management function: the administrator can query all users, modify user information, and block users, after blocking the number of users can not log in.
 
 功能介绍：
